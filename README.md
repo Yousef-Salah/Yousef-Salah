@@ -11,11 +11,11 @@
 
 # Hello 🖐, it's me 👀
 
-👩‍💻 I'm currently in my second year as a studnet @NNU/Nablus on CAP department
+👩‍💻 I'm currently in my third year as a studnet @NNU/Nablus on CAP department
 
 🧠 I'm extremely interested in coding & technologies
 
-👯‍♀️ I'm looking to collaborate on building back-end applications
+👯‍♀️ I'm looking to collaborate on building back-end and NLP applications
 
 ⚡️ Success is a decision
 
