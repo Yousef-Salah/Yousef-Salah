@@ -33,6 +33,8 @@
 
 > Back End
 <div>
+	<img height="50" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="Laravel" title="Laravel" />
+	<img height="50" src="https://static-00.iconduck.com/assets.00/php-icon-512x512-og0oh3rg.png" alt="PHP" title="PHP" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" />
