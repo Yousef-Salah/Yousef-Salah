@@ -11,7 +11,7 @@
 
 # Hello 🖐, it's me 👀
 
-👩‍💻 I'm currently in my third year as a studnet @NNU/Nablus on CAP department
+👩‍💻 I'm fresh graduate studnet @NNU/Nablus on CAP department
 
 🧠 I'm extremely interested in coding & technologies
 
